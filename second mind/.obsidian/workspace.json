@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "27df77048f461a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "1359a715afc70364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8eca3a56355ab6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "58a92ad35bbc1b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Начните здесь.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7c0e52f6093d8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb9fb30e177de27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "179f6e1000aa0eb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcfc72d42f7c449a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48d3879aa1b7a37d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1f7d5f589171c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c084b9105c98c625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a125d34598e7e15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Начните здесь.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e559c0e8c37b49e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Начните здесь.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ca2055871498e68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "337f354d4b1a5ade",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Начните здесь.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "58a92ad35bbc1b0e",
+  "lastOpenFiles": [
+    "Начните здесь.md",
+    "templates/Конспект.md",
+    "Конспекты/Обществознание/Что такое общество.md",
+    "files/общ_03.09.24_1.jpg",
+    "files/общ_03.09.24_2.jpg",
+    "files/общ_03.09.24_3.jpg",
+    "Конспекты/Обществознание",
+    "Конспекты/Обществознание",
+    "files/союз науки и труда.jpg",
+    "README.md",
+    "templates/Домашнее задание.md",
+    "28-08-2024.md",
+    "().md",
+    "26-08-2024.md",
+    "Домашние задания",
+    "Добро пожаловать.md",
+    "Конспекты",
+    "files",
+    "templates"
+  ]
+}

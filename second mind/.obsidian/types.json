@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Дата": "date",
+    "Дата назначения": "date",
+    "Дата сдачи": "date",
+    "письменно": "checkbox",
+    "ID": "number",
+    "Темы": "multitext"
+  }
+}
