@@ -18,7 +18,7 @@
 
 2. Откройте GitHub Desktop и нажимаете ```Clone repository```
 
-3. Перейдите в URL и вставте ссылку этого репозитория https://github.com/Markizwer/second-mind , выбирете удобный для вас путь сохранения и нажмите ```Clone```.
+3. Перейдите в URL и вставьте ссылку этого репозитория https://github.com/Markizwer/second-mind , выберете удобный для вас путь сохранения и нажмите ```Clone```.
 
 ![image](https://github.com/user-attachments/assets/719a2788-bc58-4a16-af04-f47a98ffe788)
 
