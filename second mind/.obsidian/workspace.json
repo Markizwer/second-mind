@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Начните здесь.md",
+                "file": "Конспекты/Лепка/Основы архитектуры.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "e1f7d5f589171c3d",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Начните здесь.md",
+                "file": "Конспекты/Лепка/Основы архитектуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Начните здесь.md",
+                "file": "Конспекты/Лепка/Основы архитектуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Начните здесь.md"
+                "file": "Конспекты/Лепка/Основы архитектуры.md"
               }
             }
           }
@@ -161,9 +161,17 @@
   },
   "active": "5eeea697082e8771",
   "lastOpenFiles": [
-    "Конспекты/Химия/Химические элементы.md",
+    "Конспекты/Обществознание/Теория происхождения общества.md",
     "Конспекты/Обществознание/Что такое общество.md",
+    "Конспекты/Лепка/Основы архитектуры.md",
+    "files/леп_05.09.24_2.jpg",
+    "files/леп_05.09.24_1.jpg",
+    "files/общ_04.09.24_2.jpg",
+    "files/общ_04.09.24_1.jpg",
     "Начните здесь.md",
+    "Invalid date.md",
+    "Конспекты/Лепка",
+    "Конспекты/Химия/Химические элементы.md",
     "files/хим_03.09.24_1.jpg",
     "Конспекты/Химия",
     "Конспекты/Химия.md",
