@@ -5,8 +5,58 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Конспекты/История  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Конспекты/География  ",
+      "color": {
+        "a": 1,
+        "rgb": 6125561
+      }
+    },
+    {
+      "query": "path:Конспекты/Обществознание  ",
+      "color": {
+        "a": 1,
+        "rgb": 10300138
+      }
+    },
+    {
+      "query": "path:Конспекты/Химия  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Конспекты/Лепка  ",
+      "color": {
+        "a": 1,
+        "rgb": 14472734
+      }
+    },
+    {
+      "query": "path:Конспекты/ОБЗР  ",
+      "color": {
+        "a": 1,
+        "rgb": 1656836
+      }
+    },
+    {
+      "query": "path:\"Конспекты/Русский язык\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16354320
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977761064,
+  "scale": 1.4019828977761069,
   "close": true
 }
